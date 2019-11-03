@@ -6,7 +6,7 @@ import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 public class Solutions{        
- List<List<String> > threeProductSuggestions(int numProducts, 
+ List<List<String> > limitedProductSuggestions(int numProducts, 
                                              List<String> listOFProduct, 
                                              String userInput)
  {
